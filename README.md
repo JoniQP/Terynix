@@ -26,12 +26,12 @@ send me the error and I'll fix it.
 
 ### Opening it in Xcode
 
-1. Xcode → **File → New → Project → App**. Name it `VirtualPC`, interface
+1. Xcode → **File → New → Project → App**. Name it `Terynix`, interface
    **SwiftUI**, language **Swift**. Uncheck Core Data / Tests unless you
    want them.
 2. Delete the generated `ContentView.swift` (and the generated
    `VirtualPCApp.swift` — you'll use the one below instead).
-3. Drag the `VirtualPC/` folder from this delivery into the Xcode project
+3. Drag the `Terynix/` folder from this delivery into the Xcode project
    navigator (the one containing `Models/`, `Views/`, etc. — not the outer
    folder with this README). Choose **Create groups**, and make sure **Copy
    items if needed** is checked and your app target is ticked.

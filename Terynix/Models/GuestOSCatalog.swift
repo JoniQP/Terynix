@@ -1,4 +1,3 @@
-
 import Foundation
 
 /// How far Virtual PC's *real* emulation support goes for a given guest OS
